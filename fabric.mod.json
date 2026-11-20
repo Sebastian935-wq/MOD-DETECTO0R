@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "player-detector",
+  "version": "${version}",
+  "name": "Player Detector",
+  "description": "Client-side mod that detects nearby players, plays a sound alert, and shows chat notifications with anti-spam hysteresis.",
+  "authors": [
+    "PlayerDetector"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.example.playerdetector.PlayerDetectorClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "minecraft": "~${minecraft_version}",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

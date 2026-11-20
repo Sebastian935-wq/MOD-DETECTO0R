@@ -1,0 +1,14 @@
+{
+  "key.categories.player-detector": "Player Detector",
+  "key.player-detector.open_menu": "Open Detector Menu",
+  "screen.player-detector.title": "Player Detector Settings",
+  "screen.player-detector.status_on": "Status: ON",
+  "screen.player-detector.status_off": "Status: OFF",
+  "screen.player-detector.range": "Detection Range: %s blocks",
+  "screen.player-detector.sound_orb": "Sound: XP Orb Pickup",
+  "screen.player-detector.sound_pling": "Sound: Note Block Pling",
+  "screen.player-detector.test_sound": "Test Notification Sound",
+  "screen.player-detector.debug_scan": "Debug Scan Nearby Players",
+  "chat.player-detector.alert_prefix": "[PlayerDetector] ",
+  "chat.player-detector.player_nearby": "Player %s entered range (%s blocks)"
+}
